@@ -35,7 +35,7 @@ Grunt
 https://gruntjs.com/  
 * Tutorial: https://www.youtube.com/watch?v=TMKj0BxzVgw  
 #### Frameworks  
-**E-Commerce**  
+**E-Commerce (API)**  
 https://www.moltin.com/  
 
 ## YouTube Channels
