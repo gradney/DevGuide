@@ -29,12 +29,11 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 https://www.w3schools.com/  
 https://developer.mozilla.org/en-US/
 
-### Tools  
-#### Build Tools  
+### Build Tools  
 Grunt  
 https://gruntjs.com/  
 * Tutorial: https://www.youtube.com/watch?v=TMKj0BxzVgw  
-#### Frameworks  
+### Frameworks  
 **E-Commerce (API)**  
 https://www.moltin.com/  
 
