@@ -24,6 +24,11 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### PHP
 ### Python
+### Ruby
+https://www.ruby-lang.org/en/downloads/  
+[Try Ruby scripting online](http://tryruby.org/levels/1/challenges/0)
+#### Frameworks
++ [Rails](http://rubyonrails.org/)
 
 ## Web Development (HTML, CSS, JavaScript)
 https://www.w3schools.com/  
