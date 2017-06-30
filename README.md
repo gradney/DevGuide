@@ -17,13 +17,13 @@ Therefore, my developer's guide is organized into programming languages with exc
 
 ## Programming Languages
 ### C#
-## Java
-## Markdown (for README.md and such files)
+### Java
+### Markdown (for README.md and such files)
 _Thanks Adam P for this Cheat Sheet_  
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
 
-## PHP
-## Python
+### PHP
+### Python
 
 ## Web Development (HTML, CSS, JavaScript)
 https://www.w3schools.com/
@@ -36,11 +36,11 @@ https://gruntjs.com/
 * Tutorial: https://www.youtube.com/watch?v=TMKj0BxzVgw
 
 ## YouTube Channels
-## Derek Banas
+### Derek Banas
 https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw
-## Google Developers
+### Google Developers
 https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw
-## LearnCode.Academy
+### LearnCode.Academy
 https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw
-## MIT OpenCourseWare
+### MIT OpenCourseWare
 https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw
