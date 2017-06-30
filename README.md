@@ -19,7 +19,7 @@ Therefore, my developer's guide is organized into programming languages with exc
 ### C#
 ### Java
 ### Markdown (for README.md and such files)
-[Markdown Cheat Sheet - _"thanks adam-p"_](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[Markdown Cheat Sheet _(thanks adam-p)_](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 [Markdown Emojis for GitHub _(thanks rxaviers)_](https://gist.github.com/rxaviers/7360908) :smiley:  
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
