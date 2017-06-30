@@ -25,8 +25,7 @@ Therefore, my developer's guide is organized into programming languages with exc
 
 ### PHP
 ### Python
-### Ruby
-https://www.ruby-lang.org/en/downloads/  
+### [Ruby](https://www.ruby-lang.org/en/downloads/)  
 [Try Ruby scripting online](http://tryruby.org/levels/1/challenges/0)
 #### Ruby Frameworks
 + [Ruby on Rails](http://rubyonrails.org/)
