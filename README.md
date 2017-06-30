@@ -5,7 +5,7 @@ DISCLAIMER: This doesn't encompass everything on the Web, but tries to serve as 
 
 This is in progress...(that is, I just started this.)
 
-# NOTE: Tools & Tutorials
+**NOTE: Tools & Tutorials**
 Rarely do I ever see tools or tutorials that are not specific to a programming language. There are integrated development environments (IDEs) that are non-PL-specific, but even those usually specialize in a specific programming language like Eclipse (with Java) and Visual Studio (with C++, C#,VB and F#).
 
 Therefore, my developer's guide is organized into programming languages with exceptions for the following:
@@ -16,6 +16,10 @@ Therefore, my developer's guide is organized into programming languages with exc
 # Programming Languages
 ## C#
 ## Java
+## Markdown (for README.md and such files)
+_Thanks Adam P for this Cheat Sheet_  
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+
 ## PHP
 ## Python
 
@@ -24,12 +28,12 @@ https://www.w3schools.com/
 https://developer.mozilla.org/en-US/
 
 ### Tools
-#### Build
-Grunt
+#### Build Tools
+Grunt  
 https://gruntjs.com/
 * Tutorial: https://www.youtube.com/watch?v=TMKj0BxzVgw
 
-# YouTube Channels
+## YouTube Channels
 ## Derek Banas
 https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw
 ## Google Developers
