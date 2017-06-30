@@ -30,9 +30,9 @@ https://www.w3schools.com/
 https://developer.mozilla.org/en-US/
 
 ### Build Tools  
-Grunt  
+**Grunt**  
 https://gruntjs.com/  
-* Tutorial: https://www.youtube.com/watch?v=TMKj0BxzVgw  
+Tutorial: https://www.youtube.com/watch?v=TMKj0BxzVgw  
 ### Frameworks  
 **E-Commerce (API)**  
 https://www.moltin.com/  
