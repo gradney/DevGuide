@@ -19,16 +19,17 @@ Therefore, my developer's guide is organized into programming languages with exc
 ### C#
 ### Java
 ### Markdown (for README.md and such files)
-_Thanks Adam P for this Cheat Sheet_  
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+[Markdown Cheat Sheet - thanks adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[Markdown Emojis for GitHub - thanks rxaviers](https://gist.github.com/rxaviers/7360908):smiley::  
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
 
 ### PHP
 ### Python
 ### Ruby
 https://www.ruby-lang.org/en/downloads/  
 [Try Ruby scripting online](http://tryruby.org/levels/1/challenges/0)
-#### Frameworks
-+ [Rails](http://rubyonrails.org/)
+#### Ruby Frameworks
++ [Ruby on Rails](http://rubyonrails.org/)
 
 ## Web Development (HTML, CSS, JavaScript)
 https://www.w3schools.com/  
@@ -38,7 +39,7 @@ https://developer.mozilla.org/en-US/
 **Grunt**  
 https://gruntjs.com/  
 Tutorial: https://www.youtube.com/watch?v=TMKj0BxzVgw  
-### Frameworks  
+### Web Frameworks & APIs  
 **E-Commerce (API)**  
 https://www.moltin.com/  
 Tutorial: https://youtu.be/Icltr-6nRLg?list=PLoYCgNOIyGAB0_YBfdNP5oqAD98HtAQqL
