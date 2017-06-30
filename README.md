@@ -1,20 +1,22 @@
 # A Developer Guide
 A guide containing a list of developer programming languages, tools (including frameworks), and tutorials along with its URL and quick description.  
 
-DISCLAIMER: This doesn't encompass everything on the Web, but tries to serve as a reference for me and those like me with limited spare time to play with code.
+This is in progress...(that is, I just started this.)  
 
-This is in progress...(that is, I just started this.)
+**DISCLAIMER:**  
+This doesn't encompass everything on the Web, but tries to serve as a reference for me and those like me with limited spare time to play with code.  
 
-**NOTE: Tools & Tutorials**
-Rarely do I ever see tools or tutorials that are not specific to a programming language. There are integrated development environments (IDEs) that are non-PL-specific, but even those usually specialize in a specific programming language like Eclipse (with Java) and Visual Studio (with C++, C#,VB and F#).
+**NOTE: Tools & Tutorials**  
+Rarely do I ever see tools or tutorials that are not specific to a programming language. There are integrated development environments (IDEs) that are non-PL-specific, but even those usually specialize in a specific programming language like Eclipse (with Java) and Visual Studio (with C++, C#,VB and F#).  
 
 Therefore, my developer's guide is organized into programming languages with exceptions for the following:
 - web programming language standards: HTML, CSS, and JavaScript (JS)
 - machine learning (ML)
 - artificial intelligence (AI)
+---  
 
-# Programming Languages
-## C#
+## Programming Languages
+### C#
 ## Java
 ## Markdown (for README.md and such files)
 _Thanks Adam P for this Cheat Sheet_  
