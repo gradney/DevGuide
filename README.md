@@ -39,6 +39,10 @@ https://developer.mozilla.org/en-US/
 **Grunt**  
 https://gruntjs.com/  
 Tutorial: https://www.youtube.com/watch?v=TMKj0BxzVgw  
+### Package Managers
+**Bower - package manager for the Web**
+https://bower.io/
+Tutorial: https://youtu.be/Vs2wduoN9Ws
 ### Web Frameworks & APIs  
 **E-Commerce (API)**  
 https://www.moltin.com/  
